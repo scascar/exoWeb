@@ -1,0 +1,23 @@
+select {
+  margin: 35px;
+  border: 1px solid #111;
+  background: transparent;
+  width: 300x;
+  padding: 5px 35px 5px 5px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  height: 34px;
+
+  appearance: none;
+
+}
+
+h1{
+height:30px;
+ overflow-y: auto;
+}
+.fixed{
+	position:fixed;
+	top:0;
+}
+
